@@ -1,0 +1,7 @@
+{
+  "name": "cob/cob_empty",
+  "description": "Initial codeblick project",
+  "require": {
+    "php": ">=5.6"
+  }
+}
