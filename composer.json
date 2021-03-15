@@ -1,6 +1,7 @@
 {
   "name": "cob/cob_empty",
   "description": "Initial codeblick project",
+  "license": "WTFPL",
   "require": {
     "php": ">=5.6"
   }
